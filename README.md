@@ -8,6 +8,8 @@
 [openMaint](http://www.openmaint.org) open source solution for the Property & Facility Management; an application for the management of buildings, installations, movable assets and related maintenance activities  
 
 ## Latest news
+**30/11/2021** Bump Tomcat version to 9.0.55  
+**30/11/2021** Fix database reinitalization on every container start, [issue from main repo](https://github.com/itmicus/cmdbuild_docker/issues/25)  
 **29/12/2020** Add openMAINT 2.1 on CMDBuild 3.3b  @afcarvalho1991 contribution  
 **12/10/2020** Add CMDBuild 3.3, READY2USE 2.0 and openMAINT 2.0 on CMDBuild 3.2.1  @afcarvalho1991 contribution  
 **11/06/2020** Add CMDBuild 3.2.1, READY2USE 2.0 and openMAINT 2.0 on CMDBuild 3.2.1  
